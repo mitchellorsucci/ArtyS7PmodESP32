@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# updatemem v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# 
+# Start of session at: Thu Feb  1 09:48:22 2018
+# Process ID: 1940
+# Current directory: /home/mitchellorsucci/DigilentRepos/Arty-S7-50-base-rt/proj
+# Command line: updatemem -mode batch -source /home/mitchellorsucci/Xilinx/SDK/2017.4/scripts/updatemem/main.tcl -notrace -tclargs -meminfo /home/mitchellorsucci/DigilentRepos/Arty-S7-50-base-rt/proj/base-rt.sdk/system_wrapper_hw_platform_0/system_wrapper.mmi -data /home/mitchellorsucci/Xilinx/SDK/2017.4/data/embeddedsw/lib/microblaze/mb_bootloop_le.elf -proc system_i/microblaze_0 -bit /home/mitchellorsucci/DigilentRepos/Arty-S7-50-base-rt/proj/base-rt.sdk/system_wrapper_hw_platform_0/system_wrapper.bit -out /home/mitchellorsucci/DigilentRepos/Arty-S7-50-base-rt/proj/base-rt.sdk/system_wrapper_hw_platform_0/download.bit -force
+# Log file: /home/mitchellorsucci/DigilentRepos/Arty-S7-50-base-rt/proj/updatemem.log
+# Journal file: /home/mitchellorsucci/DigilentRepos/Arty-S7-50-base-rt/proj/updatemem.jou
+#-----------------------------------------------------------
+source /home/mitchellorsucci/Xilinx/SDK/2017.4/scripts/updatemem/main.tcl -notrace
+ Loading bitfile /home/mitchellorsucci/DigilentRepos/Arty-S7-50-base-rt/proj/base-rt.sdk/system_wrapper_hw_platform_0/system_wrapper.bit
+Loading data files...
+Updating memory content...
+Creating bitstream...
+Bitstream compression saved 5422208 bits.
+Writing bitstream /home/mitchellorsucci/DigilentRepos/Arty-S7-50-base-rt/proj/base-rt.sdk/system_wrapper_hw_platform_0/download.bit...
+  update_mem: Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 913.332 ; gain = 405.965 ; free physical = 1190 ; free virtual = 7470
+INFO: [Common 17-206] Exiting updatemem at Thu Feb  1 09:48:30 2018...

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# 
+# Start of session at: Fri Mar 30 11:22:44 2018
+# Process ID: 15321
+# Current directory: /home/mitchellorsucci/myRepos/ArtyS7PmodESP32/VivadoProj/proj/base-rt.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /home/mitchellorsucci/myRepos/ArtyS7PmodESP32/VivadoProj/proj/base-rt.sdk/webtalk/webtalk.log
+# Journal file: /home/mitchellorsucci/myRepos/ArtyS7PmodESP32/VivadoProj/proj/base-rt.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
